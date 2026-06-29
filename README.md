@@ -26,6 +26,7 @@ I'm currently focused on developing intelligent applications for the **textile i
 
 I believe the best software isn't the most complex—it's the one that makes someone's work easier. That's the mindset I bring to every project I build.
 
-📂 **Portfolio:** https://danishcorder.github.io/TexGuage/
+📂 **Portfolio:** https://muhammaddanish-sage.vercel.app/
+
 
 > *"Building intelligent software that solves real-world problems."*
