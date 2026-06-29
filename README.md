@@ -1,69 +1,31 @@
-👋 Who Am I?
+## 👋 Who Am I?
 
-Hi, I'm Muhammad Danish — a Mathematics student, Python developer, and AI enthusiast with a strong passion for solving real-world industrial problems through software engineering and automation.
+Hi, I'm **Muhammad Danish** a Mathematics student, Python developer, and AI enthusiast from Pakistan.
 
-My primary interest lies in combining Artificial Intelligence, Python, Data Analysis, and Web Technologies to build practical solutions that improve productivity and decision-making. Rather than developing projects solely for learning, I focus on creating applications that address genuine challenges faced by industries.
+I enjoy building software that solves **real-world industrial problems** rather than just coding for practice. My work combines **Python, AI, automation, and data analysis** to create practical, user-friendly solutions.
 
-One of my major areas of interest is the textile and spinning industry, where I develop digital solutions that replace traditional manual calculations with intelligent, automated systems. My flagship project, TexGuage, is designed to modernize sliver quality monitoring by automating calculations, reducing human error, generating analytical reports, and enabling data-driven quality control.
+I'm currently focused on developing intelligent applications for the **textile industry**, with my flagship project **TexGuage** helping automate quality monitoring and production analysis in spinning mills.
 
-💻 What I Work With
-Python Development
-Artificial Intelligence & AI Agents
-Machine Learning Fundamentals
-Data Analysis & Visualization
-Object-Oriented Programming (OOP)
-Mathematics & Statistical Computing
-HTML, CSS & JavaScript
-Git & GitHub
-Excel Automation & VBA
-Industrial Process Automation
-🚀 Areas of Interest
-Artificial Intelligence
-Automation Systems
-Industrial Digital Transformation
-Computer Vision
-Data Science
-Software Engineering
-Open Source Development
-Mathematical Modeling
-Statistical Analysis
-🎯 Current Focus
-Building AI-powered industrial applications
-Developing intelligent automation tools for textile manufacturing
-Creating user-friendly software for non-technical users
-Learning advanced Machine Learning and Large Language Models (LLMs)
-Contributing to open-source projects
-Expanding my expertise in scalable software architecture
-🌱 Philosophy
+### 🚀 What I Do
 
-I believe technology should solve real problems. Every project I build aims to simplify complex workflows, reduce manual effort, improve accuracy, and create measurable value for users.
+* 🤖 Build AI-powered applications and automation tools
+* 🐍 Develop scalable Python solutions
+* 📊 Turn raw data into meaningful insights
+* 🏭 Create software for industrial digital transformation
+* 🌐 Build modern web applications and developer tools
 
-I enjoy transforming ideas into practical software solutions by combining logical thinking, mathematics, and modern development tools.
+### 🌱 Currently Learning
 
-📌 Core Skills
-Python
-C++
-SQL
-Git & GitHub
-OOP
-NumPy
-Pandas
-Statistics
-Mathematics
-Excel Automation
-VBA
-Prompt Engineering
-AI Integration
-REST APIs
-Problem Solving
-🤝 Open to Collaborate On
-AI Applications
-Python Projects
-Open Source Software
-Industrial Automation
-Data Analysis
-Machine Learning Projects
-Research-Based Software
-Mathematical Computing
+* Large Language Models (LLMs)
+* Machine Learning
+* AI Agents
+* Software Architecture
+* Cloud Technologies
 
-"Building intelligent software that transforms real-world problems into practical digital solutions."
+### 💡 Beyond Coding
+
+I believe the best software isn't the most complex—it's the one that makes someone's work easier. That's the mindset I bring to every project I build.
+
+📂 **Portfolio:** https://danishcorder.github.io/TexGuage/
+
+> *"Building intelligent software that solves real-world problems."*
